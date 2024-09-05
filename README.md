@@ -2,6 +2,11 @@
 
 Este é um projeto de CRUD (Create, Read, Update, Delete) desenvolvido com React. O objetivo principal é permitir que o usuário adicione, visualize e exclua informações de carros.
 
+## Preview
+
+![Layout](.src/componentes/images/Layout.png)
+
+
 ## Requisitos para rodar o projeto
 
 1. Certifique-se de que o Node.js está instalado na sua máquina. Caso não esteja, você pode baixá-lo [aqui](https://nodejs.org/).
