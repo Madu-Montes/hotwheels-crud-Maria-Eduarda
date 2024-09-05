@@ -4,7 +4,8 @@ Este é um projeto de CRUD (Create, Read, Update, Delete) desenvolvido com React
 
 ## Preview
 
-![Layout](.hotwheels-crud-Maria-Eduarda\src\componentes\images)
+![Layout](src/componentes/images/Layout.png)
+
 
 
 ## Requisitos para rodar o projeto
