@@ -1,0 +1,20 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    background-color: #000; 
+    color: white; 
+    padding: 10px;
+}
+
+.home-container h1{
+    color: #fff;
+}
+
+.home-image {
+    width: 300px; 
+    margin-top: 20px; 
+}

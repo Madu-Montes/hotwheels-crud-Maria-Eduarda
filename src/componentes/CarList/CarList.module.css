@@ -1,0 +1,57 @@
+.car-list {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.car-list h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.car-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.car-list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.car-list li:last-child {
+  border-bottom: none;
+}
+
+.car-list strong {
+  font-size: 18px;
+}
+
+.car-list button {
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.car-list button:hover {
+  background-color: #c0392b;
+}
+
+.car-list a {
+  color: #3498db;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.car-list a:hover {
+  text-decoration: underline;
+}
